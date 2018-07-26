@@ -2,6 +2,8 @@
 
 That's multi-page site for art coaching especially for psychologist Yaryna Konovart. 
 
+Project on process, more info will add when the project will be completed.
+
 
 
 ### Author contacts
